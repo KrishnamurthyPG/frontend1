@@ -1,0 +1,56 @@
+/* Home.css */
+
+/* General styles for the entire home component */
+.home {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+}
+
+/* Styles for the header section */
+header {
+  text-align: center;
+}
+
+/* Styles for the welcome heading */
+.welcome-heading {
+  color: #007bff;
+}
+
+/* Styles for the about section */
+.about {
+  margin-top: 20px;
+  /* Add styles for the about section here */
+}
+
+/* Styles for the programs section */
+.programs {
+  margin-top: 30px;
+  /* Add styles for the programs section here */
+}
+
+/* Styles for the admissions section */
+.admissions {
+  margin-top: 30px;
+  /* Add styles for the admissions section here */
+}
+
+/* Styles for the contact section */
+.contact {
+  margin-top: 30px;
+  /* Add styles for the contact section here */
+}
+
+/* Styles for buttons */
+button {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Hover styles for buttons */
+button:hover {
+  background-color: #218838;
+}
